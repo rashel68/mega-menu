@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+
+}
+.header-part{
+    background-image: url(images/Abstract\ Background\ Thumbnail.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header-sub{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.menu-area{
+    position: static;
+}
+.mega-area{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #dfdfdf;
+}
